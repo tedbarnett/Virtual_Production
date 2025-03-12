@@ -4,7 +4,14 @@ This Unreal Engine Editor Utility Widget will help you:
  - Set up shot positions for your nDisplay and quickly move the NDC to those positions
  - For scenes with many identical static meshes - convert them to a Hierarchical Static Mesh
 
+
+
+![image-20250312154346422](../assets/image-20250312154346422.png)
+
+
+
 To install this widget into your Unreal Project:
+
  - TBD
 
 Using the widget in UE5:

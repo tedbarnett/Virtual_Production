@@ -1,6 +1,6 @@
 # Virtual Production
 
-This repository contains essential resources, tools, and documentation for Virtual Production (VP) Supervisors, focusing on best practices, technical guidelines, and workflow optimizations.  Developed with support from the NYU Martin Scorsese Virtual Production Center
+This repository contains essential resources, tools, and documentation for Virtual Production (VP) Supervisors, focusing on best practices, technical guidelines, and workflow optimizations.  Developed with support from the NYU [Martin Scorsese Virtual Production Center](https://tisch.nyu.edu/virtual-production)
 
 ## Contents
 

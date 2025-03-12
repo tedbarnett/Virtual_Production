@@ -1,8 +1,9 @@
 # On-Stage Tuning
 
-##### Setting up the project for nDisplay
+### Setting up the project for nDisplay
 
 - TBD nDisplay setup, etc.
+- Need to do this only once per project...
 
 <img width="422" alt="image" src="https://github.com/user-attachments/assets/36032a24-f47c-4c0e-95e4-532e1d01f3a6" />
 

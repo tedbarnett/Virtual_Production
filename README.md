@@ -7,7 +7,7 @@ This repository contains essential resources, tools, and documentation for Virtu
 ### 📚  [Field Guide](Field_Guide/)
 Comprehensive documentation and guidelines designed specifically for VP Supervisors, covering best practices in virtual production, performance optimization, and project management.
 
-### 🔧 [VP Supervisor Widget](VP_Supervisor_Widget/)
+### 🔧 [VP Supervisor Widget](https://github.com/tedbarnett/VP_Supervisor)
 A practical Unreal Engine widget designed to help VP Supervisors efficiently manage common tasks, enhance productivity, and streamline workflows during production.
 
 ### 🎥 [Video Tutorials](Video_Tutorials/)

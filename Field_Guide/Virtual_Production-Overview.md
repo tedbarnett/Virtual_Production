@@ -18,3 +18,5 @@ TBD: Graphic of the VP components we need to learn:
 * Switchboard  
 * Multi-user editing  
 * File Syncing (or Perforce)
+
+Install our [VP_Supervisor Editor Utility Widget](https://github.com/tedbarnett/VP_Supervisor) to enable helpful in-project tools
